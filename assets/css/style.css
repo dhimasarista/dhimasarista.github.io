@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext");
+
+#content{
+    font-family: "Quicksand", sans-serif;
+}
+
+#actived{
+    color: rgb(255, 0, 0) !important;
+}
+
+.link-colored{
+    color: cadetblue;
+}
+.link-colored:hover{
+    color: rgb(141, 162, 163);
+}
+
+.none{
+    display: none !important;
+}
