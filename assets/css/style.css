@@ -1,5 +1,40 @@
 @import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext");
 
+body{
+    padding-top: 20px;
+}
+
+
+@media only screen and (min-width: 768px){
+    .image img{
+        width: 450px;
+        margin-left: 700px;
+    }
+    .ilovedart{
+        margin-top: 10px;
+
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .image img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 80px;
+    }
+    .ilovedart{
+        margin-top: 70px;
+
+        text-align: center;
+    }
+    .hashtag{
+        font-size: 12px;
+    }
+}
+
+
 #content{
     font-family: "Quicksand", sans-serif;
 }
@@ -9,7 +44,7 @@
 }
 
 .link-colored{
-    color: cadetblue;
+    color: #2DB7F6;
 }
 .link-colored:hover{
     color: rgb(141, 162, 163);
