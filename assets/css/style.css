@@ -43,11 +43,21 @@ body{
     color: rgb(255, 0, 0) !important;
 }
 
+a{
+    color: #7D8F69;
+    text-decoration: none;
+}
+
 .link-colored{
-    color: #2DB7F6;
+    color: #7D8F69;
+    font-weight: bold;
 }
 .link-colored:hover{
     color: rgb(141, 162, 163);
+}
+
+.hashtag{
+    color: #99A799;
 }
 
 .none{
