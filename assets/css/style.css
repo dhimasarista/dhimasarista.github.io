@@ -16,6 +16,9 @@ body{
     }
 }
 @media only screen and (max-width: 768px) {
+    .img{
+        position: relative;
+    }
     .image img{
         position: absolute;
         bottom: 0;
