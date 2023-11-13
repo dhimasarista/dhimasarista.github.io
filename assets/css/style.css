@@ -19,9 +19,12 @@ body{
     .img{
         position: relative;
     }
+    .image{
+        background-image: url("./assets/images/bg.png");
+    }
     .image img{
         position: absolute;
-        bottom: 0;
+        bottom: -1;
         display: block;
         float: left;
         display: inline;
