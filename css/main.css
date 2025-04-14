@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url("https://64.media.tumblr.com/0898063e1a88fb12b1b88d1a5193fe17/tumblr_owsj6jJzDv1wzlvpdo1_1280.gif") no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
